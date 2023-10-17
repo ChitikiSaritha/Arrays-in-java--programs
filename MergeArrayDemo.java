@@ -54,10 +54,6 @@ public class MergeArrayDemo {
 		int[] crr = mergearr.merge2Arrays(arr,brr);
 		
 		//Traverse resultant array to print its elements
-	
-		
-		
-		
 		System.out.println("merged array");
 		System.out.print("[");
 		for(int i=0;i<crr.length;i++) {
